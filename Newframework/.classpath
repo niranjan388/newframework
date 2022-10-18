@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="softwares/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/gson-2.9.1.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/invoker-commons-3.1.1.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/invoker-ftx-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/invoker-security-3.1.1.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/kotlin-stdlib-1.6.20.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/kotlin-stdlib-common-1.5.31.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/kotlin-stdlib-jdk7-1.5.31.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/kotlin-stdlib-jdk8-1.5.31.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/okhttp-4.10.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/okio-jvm-3.0.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/ursa-cache-1.3.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/ursa-core-api-1.3.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/extentreports-5.0.9.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/rxjava-3.0.4.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="REPORTSJARS/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
